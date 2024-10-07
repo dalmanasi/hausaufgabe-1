@@ -1,2 +1,4 @@
 # hausaufgabe-1
-dies ist die erste hausaufgabe der ITA23b, auf gitHub
+Dies ist die erste hausaufgabe der ITA23b, auf gitHub.
+
+Jetzt mit auch noch mehr Nüssen! 
